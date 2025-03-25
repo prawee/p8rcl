@@ -5,7 +5,9 @@
   "license": "MIT",
   "author": "Prawee Wongsa <prawee@hotmail.com>",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "./dist/cjs/Button.js",
+  "module": "./dist/esm/Button.js",
+  "types": "./dist/esm/Button.d.ts",
   "scripts": {
     "clean": "rimraf dist",
     "build": "yarn clean && yarn build:esm && yarn build:cjs",
