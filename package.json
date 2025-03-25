@@ -1,0 +1,12 @@
+{
+  "name": "@p8w/p8rcl",
+  "version": "0.0.1",
+  "description": "This is a react component library with minimal setup",
+  "license": "MIT",
+  "author": "Prawee Wongsa <prawee@hotmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
